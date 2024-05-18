@@ -1,5 +1,5 @@
-## Low Level Design
+# Low Level Design
 
 ### Design Patterns
 
-- 1. Factory Design Pattern
+- Factory Design Pattern
