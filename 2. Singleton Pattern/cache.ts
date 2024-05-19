@@ -11,7 +11,7 @@ class Redis implements IRedis {
   }
 
   get(key: string) {
-    return crypto.randomUUID();
+    return `${key}-${crypto.randomUUID()}`;
   }
 
   put(key: string, val: string) {

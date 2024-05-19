@@ -4,11 +4,10 @@
 
 - Factory Design Pattern
 
-  - Simple Factory
-  - Complex Factory
-  - Abstract Factory
+  1. Simple Factory
+  2. Complex Factory
+  3. Abstract Factory
 
 - Singleton Design Pattern
-
-  - Simple Singleton
-  - Thread safe Singleton
+  1. Simple Singleton
+  2. Thread safe Singleton
