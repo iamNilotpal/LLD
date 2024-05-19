@@ -48,6 +48,6 @@ export abstract class UIFactory {
   static createNewFactory(os: OS): IUIFactory {
     if (os === 'mac') return new MacFactory();
     if (os === 'windows') return new WindowsFactory();
-    else throw new Error('xxxxxx Invalid OS xxxxxx');
+    else throw new Error('❌❌❌❌ Invalid OS ❌❌❌❌');
   }
 }
