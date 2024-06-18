@@ -11,4 +11,4 @@ export interface IUIFactory {
   createTextBox: () => ITextBox;
 }
 
-export type OS = 'mac' | 'windows';
+export type OS = 'mac' | 'windows' | 'linux';
